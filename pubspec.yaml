@@ -1,5 +1,5 @@
 name: pic
-version: 2.1.4
+version: 2.1.4.1
 author: Brendan Duncan <brendanduncan@gmail.com> Edited by Farook Al-Sammarraie <falsammarraie@hotech.club>
 description: Provides server and web apps the ability to load, manipulate, and save images with various image file formats including PNG, JPEG, GIF, WebP, TIFF, TGA, PSD, PVR, and OpenEXR, all while not messing up material library's Image and Color classes.
 homepage: https://github.com/Falsammarraie/flutter_pic
