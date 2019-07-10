@@ -1,5 +1,5 @@
 import 'dart:io';
-import 'package:Pic/Pic.dart';
+import 'package:Pic/pic.dart';
 
 void main() {
   List<int> bytes = File('test/res/exr/grid.exr').readAsBytesSync();

@@ -1,6 +1,6 @@
 import 'dart:html';
 import 'dart:convert';
-import 'package:Pic/Pic.dart';
+import 'package:Pic/pic.dart';
 
 void main() {
   var theImg = document.getElementById('testimage') as ImageElement;
