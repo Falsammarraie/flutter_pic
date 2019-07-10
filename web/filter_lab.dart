@@ -1,5 +1,5 @@
 import 'dart:html';
-import 'package:Pic/pic.dart';
+import 'package:pic/pic.dart';
 
 ImageData filterImageData;
 CanvasElement canvas;

@@ -1,4 +1,4 @@
-import 'package:Pic/pic.dart';
+import 'package:pic/pic.dart';
 import 'package:test/test.dart';
 
 void main() {

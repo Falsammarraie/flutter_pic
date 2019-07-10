@@ -1,6 +1,6 @@
 import 'dart:html';
 import 'dart:convert';
-import 'package:Pic/pic.dart';
+import 'package:pic/pic.dart';
 
 /// Convert all .webp IMG elements on the page to PNG so that they can be viewed
 /// by browsers like FireFox and IE.

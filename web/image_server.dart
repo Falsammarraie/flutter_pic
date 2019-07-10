@@ -1,5 +1,5 @@
 import 'dart:io';
-import 'package:Pic/pic.dart';
+import 'package:pic/pic.dart';
 
 void main(List<String> argv) {
   if (argv.isEmpty) {

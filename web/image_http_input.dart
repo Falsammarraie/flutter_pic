@@ -1,6 +1,6 @@
 import 'dart:html';
 
-import 'package:Pic/pic.dart';
+import 'package:pic/pic.dart';
 import 'dart:convert';
 
 InputElement fileInput;
